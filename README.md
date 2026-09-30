@@ -16,8 +16,8 @@ mi-repositorio/
 ├── figures/
 │   └── carga_deflexion.png
 └── report/
-    ├── main.tex
-    ├── referencias.bib
-    └── nota_tecnica.pdf
+|   ├── main.tex
+|   ├── referencias.bib
+|   └── nota_tecnica.pdf
 ├── USO_IA.md
 ```
