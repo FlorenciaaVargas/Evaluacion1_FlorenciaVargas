@@ -8,7 +8,6 @@ El proyecto aplica un flujo de análisis reproducible para evaluar el comportami
 ```text
 mi-repositorio/
 ├── README.md
-├── USO_IA.md
 ├── data/
 │   ├── datos_viga.csv
 │   └── parametros_viga.xlsx
@@ -20,4 +19,5 @@ mi-repositorio/
     ├── main.tex
     ├── referencias.bib
     └── nota_tecnica.pdf
+├── USO_IA.md
 ```
