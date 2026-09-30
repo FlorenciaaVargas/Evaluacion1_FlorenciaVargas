@@ -15,7 +15,7 @@ mi-repositorio/
 │   └── analisis_viga.xlsx
 ├── figures/
 │   └── carga_deflexion.png
-└── report/
+├── report/
 |   ├── main.tex
 |   ├── referencias.bib
 |   └── nota_tecnica.pdf
