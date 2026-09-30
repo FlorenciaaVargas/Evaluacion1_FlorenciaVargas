@@ -19,13 +19,3 @@ mi-repositorio/
     ├── referencias.bib
     └── nota_tecnica.pdf
 
-│   ├── raw/                  # Datos originales sin modificar
-│   │   └── ensayo_hormigon.xlsx
-│   └── processed/            # Datos procesados y calculados
-│       └── ensayo_hormigon_procesado.csv
-├── results/
-│   └── figures/              # Gráficos generados automáticamente
-│       └── grafico_esfuerzo_desplazamiento.png
-├── docs/                     # Informe final y documentación
-│   └── informe_final.docx
-└── README.md                 # Documentación principal del proyecto
