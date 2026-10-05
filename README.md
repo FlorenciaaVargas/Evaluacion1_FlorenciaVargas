@@ -37,14 +37,15 @@ El proyecto aplica un flujo de análisis reproducible para evaluar el comportami
 ```text
 .
 ├── README.md                  # Este archivo (guía de reproducción)
-├── USO_IA.md                  # Declaración y registro del uso de herramientas de IA
 ├── data/                      # Entradas y datos brutos
 │   ├── datos_viga.csv         # Datos de entrada en formato CSV
 │   └── parametros_viga.xlsx   # Parámetros mecánicos y de diseño
 ├── analysis/                  # Procesamiento y cálculos
 │   └── analisis_viga.xlsx     # Hoja de cálculo con el análisis
 ├── figures/                   # Gráfico generado
+│   ├── esquema_viga.png       # Esquema de la viga
 │   └── carga_deflexion.png    # Gráfico de resultados (carga vs. deflexión)
 └── report/                    # Archivos fuente del informe
-    ├── main.tex               # Código fuente principal en LaTeX
-    └── nota_tecnica.pdf       # Documento final compilado
+│   ├── main.tex               # Código fuente principal en LaTeX
+│   └── nota_tecnica.pdf       # Documento final compilado
+└── USO_IA.md                  # Declaración y registro del uso de herramientas de IA
