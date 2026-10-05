@@ -37,6 +37,12 @@ El proyecto aplica un flujo de análisis reproducible para evaluar el comportami
 ```text
 .
 ├── README.md                  # Este archivo (guía de reproducción)
+├── raw_data/                  # Datos entregados
+│   ├── Plantilla_USO_IA-md    # Plantilla de declaración de uso de IA
+│   ├── README_datos-md        # README con los datos del hito 1
+│   ├── datos_viga.csv         # Datos de entrada en formato CSV
+│   ├── esquema_viga.png       # Imagen del esquema de la viga
+│   └── parametros_viga.xlsx   # Parámetros mecánicos y de diseño
 ├── data/                      # Entradas y datos brutos
 │   ├── datos_viga.csv         # Datos de entrada en formato CSV
 │   └── parametros_viga.xlsx   # Parámetros mecánicos y de diseño
